@@ -1,0 +1,2 @@
+name: helloworld-jekyll
+buildpack: git://github.com/bacongobbler/heroku-buildpack-jekyll.git
